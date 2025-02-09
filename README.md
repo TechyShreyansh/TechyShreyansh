@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/techshreyansh0129/Organic-Safelink/blob/main/assests/banner.png)
+![MasterHead](https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/banner.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Tech+Shreyansh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techshreyansh0129&label=Profile%20views&color=0e75b6&style=flat" alt="techshreyansh0129" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Panda.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechyShreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="TechyShreyansh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_rai_shreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
@@ -275,7 +275,7 @@
     </div>
 </p>
 
-<img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
+<img align="right" width="150" height="150" src="https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts About Me:
 I've Worked for many users in the past. ⚡ I love playing video games and you'll find me on my [Telegram Channel](http://telegram.me/Tech_Shreyansh) and live coding! I'm into Hacking, App Modding, and Web Designing. I also enjoy watching Movies and Cartoons, Finding bugs, making Something new, and Solving errors in Code. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my [Telegram Chat](http://telegram.me/Tech_Shreyansh2) during a live. Or DM me on Instagram or Twitter. Let's connect!
 
@@ -311,7 +311,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://github.com/techyshreyansh/techyshreyansh/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
@@ -319,7 +319,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 
 ### Watch my Contribution Graph get Eaten by the Snake:
 <!-- platane/snk works, it just puts it on a new branch -->
-![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
+![Tech-Shreyansh snake gif](https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/github-snake.svg)
 
 
 <!---
