@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed Stuff.
 
-- 📫 How to reach me **srytgaming89@gmail.com**.
+- 📫 How to reach me **techshreyansh.talk@gmail.com**.
 
 - ⚡ Fun fact **I used to binge Watch Movies or Cartoons Every Night for About 2-3 hours.**.
 
