@@ -34,7 +34,7 @@
 <h3>Connect & Find Me:</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <a href="https://github.com/techyshreyansh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/TechyShreyansh/TechyShreyansh/blob/main/Images/Github-Light.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
 <a href="https://t.me/Tech_Shreyansh2" target="blank">
@@ -50,7 +50,7 @@
 <a href="https://codepen.io/tech_shreyansh" target="blank">
 </br>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech_shreyansh" height="30" width="40" /></a>
-<a href="/https://techyshreyansh.com/feed/" target="blank">
+<a href="https://micoguide.blogspot.com/feed/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
 </p>
   </div>
@@ -186,7 +186,7 @@
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/git-original.svg" alt="Git" width="40" height="40" />
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer" >
-            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Github-Light.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
         </a>
     </div>
      <h3>Software & Tools</h3>
@@ -225,7 +225,7 @@
 <!--     <h5>Design Tools</h5> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/icons8-canva.svg" alt="Canva" width="40" height="40"/>
         </a>
     </div>
     <!-- Streaming Tools -->
@@ -233,10 +233,10 @@
 <!--     <h5>Streaming Tools</h5> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
-            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
         </a>
         <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-            <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
         </a>
     </div>
     
@@ -255,10 +255,10 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
                <a href="https://duckduckgo.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Duck-Duck-Go.svg" alt="Opera" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Duck-Duck-Go.svg" alt="Duck-Duck-Go" width="40" height="40"/>
         </a>
        <a href="https://www.mozilla.org/en-US/firefox/developer/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/firefox-developer-edition.png" alt="Opera" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/firefox-developer-edition.png" alt="FireFox-Developer-Edition" width="40" height="40"/>
         </a>
                <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
