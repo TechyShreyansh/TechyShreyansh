@@ -65,14 +65,14 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
         </a>-->
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/html5.svg" alt="HTML5" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/HTML.svg" alt="HTML5" width="40" height="40"/>
         </a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/css3.svg" alt="CSS3" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/CSS.svg" alt="CSS3" width="40" height="40"/>
         </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/python.svg" alt="python" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Python-Dark.svg" alt="python" width="40" height="40"/>
         </a>
     </div>
     <br/>
@@ -205,7 +205,7 @@
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
         </a> 
         <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/notepad%2B%2B.svg" alt="Notepad++" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/notepad.svg" alt="Notepad++" width="40" height="40"/>
         </a> 
         <a href="https://winmerge.org/?lang=en" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/WinMerge1.png" alt="WinMerge" width="40" height="40"/>
@@ -243,16 +243,16 @@
   <h3>Most Used Browser</h3>
      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/google-original.svg" height="40" alt="google logo"  />
         </a>
         <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/chrome-original.svg" height="40" alt="chrome logo"  />
         </a>
         <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge.svg" alt="Edge" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/edge.svg" alt="Edge" width="40" height="40"/>
         </a>
         <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
                <a href="https://duckduckgo.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Duck-Duck-Go.svg" alt="Duck-Duck-Go" width="40" height="40"/>
@@ -267,16 +267,16 @@
      <h3>Most Used Operating System</h3>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Windows-Dark.svg" alt="Windows" width="40" height="40"/>
         </a>
         <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/android.png" alt="Android" width="40" height="40"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
         </a>
        <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/kalilinux-svgrepo-com.svg" alt="Kali" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Kali-Dark.svg" alt="Kali" width="40" height="40"/>
         </a>
     </div>
 </p>
