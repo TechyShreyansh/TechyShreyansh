@@ -298,6 +298,10 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+**📕 Latest Posts [@TechyShreyansh](https://www.micoguide.news/feeds/posts/default)**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <details> 
   <summary><b>Latest YouTube Videos</b></summary>
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -317,7 +321,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
@@ -327,9 +331,6 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/github-snake.svg)
 
-**📕 Latest dev.to posts [@TechyShreyansh](https://www.micoguide.news/feeds/posts/default)**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!---
 TechShreyansh/TechShreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
