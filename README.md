@@ -34,24 +34,24 @@
 <h3>Connect & Find Me:</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <a href="https://github.com/techyshreyansh" target="blank">
-  <img align="center" src="https://github.com/TechyShreyansh/TechyShreyansh/blob/main/Images/Github-Light.svg" alt="GitHub" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
-<a href="https://t.me/Tech_Shreyansh2" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
+<a href="https://t.me/Tech_Shreyansh1" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://instagram.com/_rai_shreyansh_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rai_shreyansh_" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Instagram.svg" alt="_rai_shreyansh_" height="30" width="40" /></a>
 <a href="https://fb.com/shreyanshrai29" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreyanshrai29" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ritikrai01" target="blank">
-  <img align="center" src="https://i.ibb.co/pyJhzT4/linkedin-256x256.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/facebook.svg" alt="shreyanshrai29" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritikrair" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/linkedin-256x256.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" /></a>
 <a href="https://twitter.com/_rai_shreyansh_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rai_shreyansh_" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Twitter.svg" alt="_rai_shreyansh_" height="30" width="40" /></a>
 <a href="https://codepen.io/tech_shreyansh" target="blank">
 </br>
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech_shreyansh" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/CodePen-Dark.svg" alt="tech_shreyansh" height="30" width="40" /></a>
 <a href="https://micoguide.blogspot.com/feed/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
 </p>
   </div>
 
