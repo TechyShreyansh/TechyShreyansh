@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **techshreyansh.talk@gmail.com**.
 
-- ⚡ Fun fact **I used to binge Watch Movies or Cartoons Every Night for About 2-3 hours.**.
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 ### I'm listening to:
 
