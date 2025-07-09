@@ -327,6 +327,9 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/github-snake.svg)
 
+**📕 Latest dev.to posts [@TechyShreyansh](https://www.micoguide.news/feeds/posts/default)**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 TechShreyansh/TechShreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
