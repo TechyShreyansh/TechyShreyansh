@@ -298,7 +298,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-**📕 Latest Posts [@TechyShreyansh](https://www.micoguide.news/feeds/posts/default)**
+### **📕 Latest Posts [@TechyShreyansh](https://www.micoguide.news/feeds/posts/default)**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
