@@ -50,7 +50,7 @@
 <a href="https://codepen.io/tech_shreyansh" target="blank">
 </br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/CodePen-Dark.svg" alt="tech_shreyansh" height="30" width="40" /></a>
-<a href="https://micoguide.blogspot.com/feed/" target="blank">
+<a href="https://www.micoguide.news/feeds/posts/default/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
 </p>
   </div>
