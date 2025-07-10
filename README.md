@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/_rai_shreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
-- 🔭 I’m currently working as a **Web Designing**.
+- 🔭 I’m currently studying **Python programming**.
   
-- 🌱 I’m currently learning **Software Engineering/Cyber Security**.
+- 🌱 I’m currently Practicing **Problem Solving like a MAFIA**.
 
 - 👯 I’m looking to collaborate on **Youtube**.
 
