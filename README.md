@@ -301,7 +301,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 | [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot)](https://github.com/The-MoonTg-project/Moon-Userbot) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <details> 
   <summary><b>Latest YouTube Videos</b></summary>
@@ -330,7 +330,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 
 ### Watch my Contribution Graph get Eaten by the Snake:
 <!-- platane/snk works, it just puts it on a new branch -->
-![Tech-Shreyansh snake gif](https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/github-snake.svg)
+![Tech-Shreyansh snake gif](https://profile-readme-generator.com/assets/snake.svg)
 
 
 <!---
