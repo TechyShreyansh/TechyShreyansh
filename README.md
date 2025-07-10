@@ -295,12 +295,12 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 ### Metrics
 | Stats | Streak | Language |
 |--------|--------|--------|
-| [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en&theme=highcontrast)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&theme=highcontrast)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
+| [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en&theme=tokyonight)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&theme=tokyonight)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
 
 ### Top Repositories
 | Moon UserBot | Top MoviesBot | String SessionBot |
 |--------|--------|--------|
-| [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot&theme=highcontrast)](https://github.com/The-MoonTg-project/Moon-Userbot) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot&theme=highcontrast)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION&theme=highcontrast)](https://github.com/techyshreyansh/STRING-SESSION) |
+| [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot&theme=tokyonight)](https://github.com/The-MoonTg-project/Moon-Userbot) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot&theme=tokyonight)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION&theme=tokyonight)](https://github.com/techyshreyansh/STRING-SESSION) |
 
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
