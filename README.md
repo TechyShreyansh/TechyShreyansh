@@ -24,6 +24,8 @@
 
 - 📫 How to reach me **techshreyansh.talk@gmail.com**.
 
+- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 ### I'm listening to:
