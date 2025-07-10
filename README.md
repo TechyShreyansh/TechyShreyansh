@@ -295,7 +295,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 ### Metrics
 | Stats | Streak | Language |
 |--------|--------|--------|
-| [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en&theme=highcontrast)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&theme=highcontrast)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true&theme=highcontrast)](https://github.com/techyshreyansh/github-readme-stats) |
+| [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en&theme=highcontrast)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&theme=highcontrast)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
 
 ### Top Repositories
 | Moon UserBot | Top MoviesBot | String SessionBot |
