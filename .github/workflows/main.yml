@@ -32,7 +32,7 @@ jobs:
         with:
           github_user_name: techyshreyansh
           outputs:
-            Images/snake.svg
+            dist/snake.svg
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           # gif_out_path: dist/github-contribution-grid-snake.gif
           # svg_out_path: dist/github-contribution-grid-snake.svg
@@ -42,7 +42,7 @@ jobs:
           
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
@@ -52,6 +52,7 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: Images
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
